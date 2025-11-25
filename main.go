@@ -1,1 +1,7 @@
-package main\nimport "fmt"\nfunc main(){fmt.Println("Hello from Go")}
+package main
+
+import "fmt"
+
+func main(){
+	fmt.Println("Hello from Go")
+}
